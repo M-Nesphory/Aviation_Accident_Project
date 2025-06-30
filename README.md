@@ -57,3 +57,5 @@ Out of the top 20, Piper planes constitute 45% of the planes, and Cessna constit
 
 # For More Information
 See the full analysis in this [Jupyter Notebook](./aviation_accidents.ipynb) or this [presentation](./presentation.pdf).
+
+The visualziation can also be viewed on this [Tableau Dashboard](https://public.tableau.com/views/Aviation_Accidents_Dashboard/AviationAccidentsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
