@@ -1,4 +1,4 @@
-![Airplane Photo](https://github.com/user-attachments/assets/f4bfa451-ee1e-4caa-b04a-840fb50e1502)
+![Airplane_Photo](./images/Airplane_Photo.jpg)
 # NTSB Aviation Analysis
 
 Author: [Nesphory Mwakale](nrmmwakale07@gmail.com)
@@ -23,27 +23,27 @@ Piper models are also in this list, but 10% less than Cessna.
 
 Cessna seems to be the most preferred airplane model.
 
-![Top 20 Planes](https://github.com/user-attachments/assets/9420ca7d-5ddf-4f3d-a15b-515b1159610b)
+![Top_20_Planes](./images/Top_20_Planes.png)
 
 Airplane crashes have been on a continuous decline since 1982, showing that planes have become safer as more technology advances and more aviation laws have been passed. 
 
 Planes have thus become safer.
 
-![Crash Trends](https://github.com/user-attachments/assets/f15ca923-6545-48e6-8de1-a05203942e3c)
+![Crash_Trends](./images/Crash_Trends.png)
 
 Similar to airplane crashes, casualties as a result of plane crashes have also declined since 1982 due to advancements in technology and aviation laws, which have made air travel safer.
 
-![Injury Trends](https://github.com/user-attachments/assets/67370e03-c958-45df-b70b-489ee2e22ed6)
+![Injury_Trends](./images/Injury_Trends.png)
 
 There has always been a higher number of survivors than casualties over the years. There has been a recorded decline in both survivors and casualties as the accidents have also become fewer.
 
-![Casualties vs  Survivors](https://github.com/user-attachments/assets/72c53ff4-ea41-44a7-b39e-db5716290776)
+![Casualties_vs_Survivors](./images/Casualties_vs._Survivors.png)
 
 Most airplane crashes are usually non-fatal. Non-fatal accidents are accidents that do not lead to fatalities.
 
 Out of the top 20, Piper planes constitute 45% of the planes, and Cessna constitutes 40%. It can be argued that both of these aircraft manufacturers are the safest since they have the highest survival rate.
 
-![Injury Severity](https://github.com/user-attachments/assets/71e61021-db75-4890-9d42-549491434cb4)
+![Injury_Severity](./images/Injury_Severity.png)
 
 # Conclusions
 - Airplane crashes and aviation casualties have become rarer and rarer with each passing year as technology keeps advancing and better aviation laws get passed. 
