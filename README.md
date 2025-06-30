@@ -56,4 +56,4 @@ Out of the top 20, Piper planes constitute 45% of the planes, and Cessna constit
 * It should also be noted that, according to [NASA](https://ntrs.nasa.gov/api/citations/20190001065/downloads/20190001065.pdf) and [Husain Law](https://hlalawfirm.com/8-aviation-accidents-caused-by-human-factors/), almost 80% of aviation accidents are caused by pilot error and not mechanical error. Therefore, Sky High Corp should greatly focus on hiring pilots with great track records and keep them trained and satisfied to reduce the risk of pilot error
 
 # For More Information
-See the full analysis in the [Jupyter Notebook](./aviation_accidents.ipynb) or this [presentation]
+See the full analysis in this [Jupyter Notebook](./aviation_accidents.ipynb) or this [presentation](./presentation.pdf).
